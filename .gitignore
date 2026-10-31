@@ -1,0 +1,33 @@
+# Git installation
+Git/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Backup files
+*_backup.py
+*_backup.csv
+app_backup.py
+
+# Temporary files
+tempCodeRunnerFile.py
+demo.py
+
+# Personal expense data
+my_expenses.csv
+my_expenses_backup.csv
+expenses.csv
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+venv/

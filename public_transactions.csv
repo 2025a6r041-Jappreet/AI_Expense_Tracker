@@ -1,0 +1,1001 @@
+date,description,amount,category
+2025-12-31,Freelance Project txn_237,40107.0,Income
+2025-08-31,Dentist txn_200,1694.12,Health
+2025-07-21,Dentist txn_337,643.07,Health
+2025-07-05,Blinkit txn_100,960.04,Food
+2025-10-28,Parking Fee txn_283,440.92,Travel
+2025-10-22,Dividends txn_586,41924.0,Income
+2025-10-11,Gym Membership txn_250,141.4,Health
+2025-12-06,Netflix txn_736,2213.94,Entertainment
+2025-03-02,Rental Income txn_352,65945.0,Income
+2025-06-05,Property Tax txn_213,3541.22,Bills
+2025-06-24,BESCOM Electricity txn_266,2308.03,Bills
+2025-05-27,Jio Fiber txn_601,1325.88,Bills
+2025-10-22,Tax Refund txn_970,29648.0,Income
+2025-04-06,Parking Fee txn_268,311.8,Travel
+2025-01-24,Rental Income txn_816,61139.0,Income
+2025-04-27,KFC txn_414,925.35,Food
+2025-05-09,Practo Consultation txn_754,1858.39,Health
+2025-07-27,Ola Cab txn_226,427.04,Travel
+2025-09-13,Airtel Postpaid txn_869,1312.6,Bills
+2025-06-08,Local Grocery txn_372,556.72,Shopping
+2025-03-30,Pathology Lab txn_243,1745.32,Health
+2025-02-09,Airtel Postpaid txn_989,786.82,Bills
+2025-05-15,Tax Refund txn_130,64228.0,Income
+2025-09-25,Gym Membership txn_838,57.78,Health
+2025-09-20,McDonalds txn_244,529.43,Food
+2025-04-11,Pathology Lab txn_797,2362.01,Health
+2025-04-04,Uber Ride txn_779,1498.1,Travel
+2025-12-11,BigBasket txn_119,1719.91,Shopping
+2025-06-13,Myntra txn_893,1548.67,Shopping
+2025-10-12,Prime Video txn_420,1390.0,Entertainment
+2025-04-13,Ola Cab txn_297,994.9,Travel
+2025-01-29,Myntra txn_940,2372.76,Shopping
+2025-07-16,Gaming Arcade txn_187,1210.23,Entertainment
+2025-02-09,Swiggy txn_861,2323.43,Food
+2025-05-03,IndiGo Flight txn_691,830.5,Travel
+2025-08-11,Monthly Salary txn_976,68787.0,Income
+2025-06-17,BESCOM Electricity txn_815,2508.87,Bills
+2025-07-26,Eye Checkup txn_475,128.87,Health
+2025-09-18,Pizza Hut txn_400,859.39,Food
+2025-07-23,Jio Fiber txn_729,1924.49,Bills
+2025-01-11,Rental Income txn_720,33834.0,Income
+2025-01-10,Starbucks txn_645,1549.67,Food
+2025-03-17,Rental Income txn_684,22595.0,Income
+2025-07-27,Dividends txn_382,26133.0,Income
+2025-12-09,KFC txn_365,1434.79,Food
+2025-10-11,Disney+ Hotstar txn_413,1280.56,Entertainment
+2025-03-24,Cafe Coffee Day txn_881,1835.59,Food
+2025-02-13,LPG Gas txn_861,1276.4,Bills
+2025-11-24,Shell Fuel txn_495,432.94,Travel
+2025-08-07,Pub Visit txn_633,647.61,Entertainment
+2025-03-09,Disney+ Hotstar txn_415,85.78,Entertainment
+2025-04-27,IndiGo Flight txn_684,831.72,Travel
+2025-01-01,Uber Ride txn_610,1226.09,Travel
+2025-01-10,Auto Rickshaw txn_900,212.32,Travel
+2025-03-04,Apollo Pharmacy txn_439,1009.24,Health
+2025-05-19,Tax Refund txn_602,70100.0,Income
+2025-02-10,Freelance Project txn_820,36051.0,Income
+2025-02-11,Gym Membership txn_777,2060.66,Health
+2025-06-16,Prime Video txn_791,1489.9,Entertainment
+2025-05-21,BookMyShow txn_774,869.01,Entertainment
+2025-01-21,Dividends txn_188,66665.0,Income
+2025-08-06,Gaming Arcade txn_322,2334.28,Entertainment
+2025-06-04,Practo Consultation txn_320,1131.45,Health
+2025-04-05,BookMyShow txn_542,2134.65,Entertainment
+2025-11-21,Myntra txn_463,2400.11,Shopping
+2025-08-23,BigBasket txn_887,614.95,Shopping
+2025-05-24,LPG Gas txn_360,1439.95,Bills
+2025-07-25,Netflix txn_998,905.32,Entertainment
+2025-01-19,Water Bill txn_229,4502.77,Bills
+2025-06-29,Gym Membership txn_186,1765.18,Health
+2025-06-21,IRCTC Ticket txn_803,203.38,Travel
+2025-06-13,Dentist txn_949,1119.08,Health
+2025-08-24,Local Dhaba txn_310,1253.73,Food
+2025-11-23,BigBasket txn_438,1925.19,Shopping
+2025-06-18,Jio Fiber txn_128,3787.15,Bills
+2025-07-22,Starbucks txn_878,2276.52,Food
+2025-04-07,Ola Cab txn_431,848.22,Travel
+2025-11-06,IRCTC Ticket txn_858,1216.32,Travel
+2025-06-22,Shell Fuel txn_395,337.09,Travel
+2025-02-16,Pub Visit txn_301,1435.57,Entertainment
+2025-04-13,Myntra txn_141,1135.24,Shopping
+2025-03-04,BookMyShow txn_644,2182.75,Entertainment
+2025-02-25,Monthly Salary txn_155,39932.0,Income
+2025-03-17,Eye Checkup txn_939,850.84,Health
+2025-08-15,Dividends txn_364,78178.0,Income
+2025-11-10,KFC txn_430,225.77,Food
+2025-03-03,Blinkit txn_792,1631.21,Food
+2025-01-05,Myntra txn_110,1971.87,Shopping
+2025-09-18,Property Tax txn_764,3103.68,Bills
+2025-07-22,IRCTC Ticket txn_555,947.25,Travel
+2025-08-29,LPG Gas txn_326,993.59,Bills
+2025-02-16,Eye Checkup txn_378,217.73,Health
+2025-01-25,Ola Cab txn_548,1129.56,Travel
+2025-09-14,Water Bill txn_754,1436.52,Bills
+2025-08-03,Nike Store txn_461,214.01,Shopping
+2025-03-14,Cafe Coffee Day txn_105,2177.61,Food
+2025-05-09,Auto Rickshaw txn_611,701.98,Travel
+2025-03-28,LPG Gas txn_459,4140.96,Bills
+2025-07-16,Amazon txn_364,699.89,Shopping
+2025-04-06,Decathlon txn_182,1301.38,Shopping
+2025-09-08,Decathlon txn_972,1562.69,Shopping
+2025-05-30,BookMyShow txn_512,1290.52,Entertainment
+2025-01-05,BESCOM Electricity txn_672,4977.36,Bills
+2025-04-26,Disney+ Hotstar txn_393,1447.36,Entertainment
+2025-04-07,Apollo Pharmacy txn_766,1920.16,Health
+2025-02-09,Freelance Project txn_373,71251.0,Income
+2025-04-23,Spotify txn_458,1848.35,Entertainment
+2025-03-04,Decathlon txn_826,1476.52,Shopping
+2025-10-28,Disney+ Hotstar txn_181,908.06,Entertainment
+2025-08-15,Dentist txn_365,1972.22,Health
+2025-06-07,Pub Visit txn_377,466.48,Entertainment
+2025-11-16,Dentist txn_684,704.82,Health
+2025-02-10,Uber Ride txn_822,550.24,Travel
+2025-07-08,Decathlon txn_650,1650.13,Shopping
+2025-01-03,Apollo Pharmacy txn_717,1305.63,Health
+2025-05-09,Interest Credit txn_695,26791.0,Income
+2025-02-06,Eye Checkup txn_448,2031.8,Health
+2025-07-03,Swiggy txn_888,1438.15,Food
+2025-02-27,Nike Store txn_713,2028.82,Shopping
+2025-05-31,Local Grocery txn_552,1914.23,Shopping
+2025-02-05,Monthly Salary txn_904,55001.0,Income
+2025-08-20,Property Tax txn_987,4820.03,Bills
+2025-08-13,IndiGo Flight txn_372,1261.97,Travel
+2025-06-22,Property Tax txn_158,3116.71,Bills
+2025-06-06,Jio Fiber txn_488,1745.64,Bills
+2025-10-24,Pizza Hut txn_655,1606.65,Food
+2025-04-06,Starbucks txn_306,2230.86,Food
+2025-04-25,IRCTC Ticket txn_640,1099.63,Travel
+2025-11-27,Property Tax txn_764,2651.85,Bills
+2025-04-03,Monthly Salary txn_193,59515.0,Income
+2025-07-05,Tax Refund txn_900,34265.0,Income
+2025-10-05,Pizza Hut txn_628,1988.49,Food
+2025-05-26,IRCTC Ticket txn_811,456.61,Travel
+2025-10-27,Nike Store txn_949,2087.31,Shopping
+2025-01-11,Dividends txn_875,54712.0,Income
+2025-10-28,Zara txn_160,1463.99,Shopping
+2025-05-10,Dividends txn_826,66885.0,Income
+2025-12-05,Gym Membership txn_359,2478.68,Health
+2025-06-23,Pub Visit txn_397,1349.77,Entertainment
+2025-05-24,Jio Fiber txn_734,3757.87,Bills
+2025-01-13,Airtel Postpaid txn_972,2697.28,Bills
+2025-09-11,IndiGo Flight txn_923,800.84,Travel
+2025-08-03,Local Grocery txn_683,2344.88,Shopping
+2025-11-06,LPG Gas txn_194,2614.25,Bills
+2025-05-14,LPG Gas txn_324,3437.91,Bills
+2025-03-13,Pizza Hut txn_615,1136.24,Food
+2025-04-15,IndiGo Flight txn_750,882.65,Travel
+2025-06-25,Eye Checkup txn_893,1052.41,Health
+2025-03-17,Jio Fiber txn_203,2427.34,Bills
+2025-02-23,Auto Rickshaw txn_385,197.18,Travel
+2025-03-10,Uber Ride txn_586,781.5,Travel
+2025-10-07,Blinkit txn_588,1290.67,Food
+2025-07-17,Pathology Lab txn_667,1050.31,Health
+2025-12-28,KFC txn_610,1040.6,Food
+2025-09-30,Swiggy txn_167,982.2,Food
+2025-09-16,Auto Rickshaw txn_674,613.51,Travel
+2025-09-19,Water Bill txn_307,3680.39,Bills
+2025-10-13,Eye Checkup txn_465,1530.38,Health
+2025-06-30,Insurance Premium txn_745,1951.22,Bills
+2025-04-30,Pathology Lab txn_999,1484.59,Health
+2025-09-02,Freelance Project txn_800,54973.0,Income
+2025-01-06,Gaming Arcade txn_312,57.4,Entertainment
+2025-08-19,Rental Income txn_419,40843.0,Income
+2025-06-01,Spotify txn_468,483.43,Entertainment
+2025-04-16,Amazon txn_819,1396.12,Shopping
+2025-06-21,Tax Refund txn_490,50393.0,Income
+2025-10-29,IndiGo Flight txn_455,363.78,Travel
+2025-03-10,Monthly Salary txn_843,75854.0,Income
+2025-01-05,Dividends txn_662,77212.0,Income
+2025-11-14,H&M txn_908,948.12,Shopping
+2025-04-11,H&M txn_535,1868.9,Shopping
+2025-02-10,Pub Visit txn_983,1612.95,Entertainment
+2025-11-07,Monthly Salary txn_706,23016.0,Income
+2025-04-03,Amazon txn_292,1331.02,Shopping
+2025-03-28,Uber Ride txn_509,726.54,Travel
+2025-12-16,Auto Rickshaw txn_882,481.41,Travel
+2025-10-31,Blinkit txn_912,2000.01,Food
+2025-02-08,Gaming Arcade txn_333,1631.71,Entertainment
+2025-05-29,Pathology Lab txn_764,242.71,Health
+2025-06-22,Cafe Coffee Day txn_902,1225.11,Food
+2025-03-11,Uber Ride txn_216,803.07,Travel
+2025-10-25,Property Tax txn_147,1916.52,Bills
+2025-08-24,Monthly Salary txn_350,74276.0,Income
+2025-03-19,Airtel Postpaid txn_261,4374.32,Bills
+2025-08-16,Local Dhaba txn_969,1173.33,Food
+2025-01-22,Water Bill txn_906,1926.08,Bills
+2025-10-02,KFC txn_824,2131.1,Food
+2025-05-04,Pathology Lab txn_921,2355.18,Health
+2025-03-13,Pizza Hut txn_748,1418.11,Food
+2025-12-12,Freelance Project txn_117,77801.0,Income
+2025-04-22,IndiGo Flight txn_877,1104.66,Travel
+2025-01-27,Pub Visit txn_661,388.93,Entertainment
+2025-09-28,IndiGo Flight txn_500,604.8,Travel
+2025-04-02,Dividends txn_245,73855.0,Income
+2025-08-19,Dentist txn_937,397.88,Health
+2025-10-23,Flipkart txn_312,802.96,Shopping
+2025-03-25,Zara txn_292,1900.62,Shopping
+2025-05-17,Interest Credit txn_711,39956.0,Income
+2025-12-28,BigBasket txn_733,1989.98,Shopping
+2025-02-02,Ola Cab txn_271,884.65,Travel
+2025-01-12,Property Tax txn_696,2833.97,Bills
+2025-04-04,Disney+ Hotstar txn_963,221.4,Entertainment
+2025-03-28,Property Tax txn_584,2779.78,Bills
+2025-05-19,Myntra txn_672,1395.09,Shopping
+2025-08-06,Swiggy txn_806,888.81,Food
+2025-06-21,Water Bill txn_780,1159.92,Bills
+2025-01-21,Shell Fuel txn_177,722.15,Travel
+2025-08-20,Monthly Salary txn_709,32269.0,Income
+2025-04-11,Gaming Arcade txn_729,1012.64,Entertainment
+2025-08-20,Nike Store txn_116,895.75,Shopping
+2025-07-18,Jio Fiber txn_193,1314.56,Bills
+2025-03-18,Freelance Project txn_798,36662.0,Income
+2025-04-15,Property Tax txn_155,2780.97,Bills
+2025-02-11,Airtel Postpaid txn_833,4647.03,Bills
+2025-11-12,Dividends txn_861,60511.0,Income
+2025-01-31,Rental Income txn_899,54798.0,Income
+2025-01-17,Dividends txn_280,60189.0,Income
+2025-05-15,Pub Visit txn_117,154.58,Entertainment
+2025-03-06,Interest Credit txn_691,44821.0,Income
+2025-04-12,Amazon txn_840,2141.1,Shopping
+2025-12-27,Insurance Premium txn_601,2354.93,Bills
+2025-07-19,Flipkart txn_743,2329.13,Shopping
+2025-11-02,Apollo Pharmacy txn_719,1983.91,Health
+2025-08-13,BookMyShow txn_359,918.52,Entertainment
+2025-12-22,Disney+ Hotstar txn_740,1167.41,Entertainment
+2025-07-18,IRCTC Ticket txn_656,634.39,Travel
+2025-04-16,BookMyShow txn_850,219.94,Entertainment
+2025-02-25,Jio Fiber txn_753,705.83,Bills
+2025-01-19,Prime Video txn_919,650.98,Entertainment
+2025-08-23,Shell Fuel txn_267,775.25,Travel
+2025-04-21,Pizza Hut txn_444,2190.86,Food
+2025-07-02,Amazon txn_592,1067.87,Shopping
+2025-09-27,Pub Visit txn_659,943.91,Entertainment
+2025-07-12,Gym Membership txn_622,1323.12,Health
+2025-10-03,Shell Fuel txn_437,1338.75,Travel
+2025-10-19,Gym Membership txn_214,111.6,Health
+2025-04-24,Swiggy txn_639,1833.82,Food
+2025-10-14,Petrol Pump txn_394,315.89,Travel
+2025-01-19,Monthly Salary txn_188,30902.0,Income
+2025-11-25,Swiggy txn_531,1797.37,Food
+2025-12-08,Gym Membership txn_515,958.65,Health
+2025-03-21,Petrol Pump txn_961,229.75,Travel
+2025-07-03,Insurance Premium txn_268,1591.81,Bills
+2025-07-28,Netflix txn_102,1051.57,Entertainment
+2025-08-21,LPG Gas txn_450,3388.67,Bills
+2025-05-01,Dividends txn_315,61648.0,Income
+2025-08-28,Practo Consultation txn_198,466.12,Health
+2025-11-30,Starbucks txn_319,904.04,Food
+2025-07-03,Airtel Postpaid txn_369,4597.26,Bills
+2025-12-21,Airtel Postpaid txn_608,768.1,Bills
+2025-01-16,Amazon txn_611,1328.61,Shopping
+2025-08-12,LPG Gas txn_824,3786.84,Bills
+2025-11-15,Pizza Hut txn_931,1996.41,Food
+2025-08-14,Dentist txn_756,709.82,Health
+2025-08-02,Disney+ Hotstar txn_990,330.13,Entertainment
+2025-01-15,Prime Video txn_603,537.69,Entertainment
+2025-11-29,Spotify txn_111,959.11,Entertainment
+2025-10-03,McDonalds txn_600,1586.59,Food
+2025-04-29,KFC txn_236,411.89,Food
+2025-05-23,Prime Video txn_963,1819.33,Entertainment
+2025-01-02,Decathlon txn_460,1143.57,Shopping
+2025-05-05,BookMyShow txn_114,1940.43,Entertainment
+2025-09-16,BESCOM Electricity txn_499,659.8,Bills
+2025-06-21,BookMyShow txn_712,429.64,Entertainment
+2025-12-13,Flipkart txn_843,467.92,Shopping
+2025-04-23,Airtel Postpaid txn_583,2861.63,Bills
+2025-09-10,H&M txn_273,1520.08,Shopping
+2025-11-23,Blinkit txn_292,1024.24,Food
+2025-01-25,Pathology Lab txn_472,1075.3,Health
+2025-01-30,Petrol Pump txn_902,203.33,Travel
+2025-12-26,McDonalds txn_108,551.37,Food
+2025-06-08,Gym Membership txn_852,2195.43,Health
+2025-09-10,KFC txn_814,1950.12,Food
+2025-06-01,Rental Income txn_921,33738.0,Income
+2025-09-28,Starbucks txn_173,2334.3,Food
+2025-01-05,Blinkit txn_101,585.42,Food
+2025-10-14,Eye Checkup txn_895,2149.36,Health
+2025-02-19,Insurance Premium txn_303,2254.91,Bills
+2025-12-28,KFC txn_424,2269.06,Food
+2025-03-02,Flipkart txn_671,1173.34,Shopping
+2025-09-01,Petrol Pump txn_571,357.43,Travel
+2025-02-21,Monthly Salary txn_261,66168.0,Income
+2025-12-11,Insurance Premium txn_304,2606.65,Bills
+2025-11-17,Tax Refund txn_851,52121.0,Income
+2025-08-30,Pizza Hut txn_555,591.66,Food
+2025-08-31,McDonalds txn_329,782.43,Food
+2025-06-30,Monthly Salary txn_868,54795.0,Income
+2025-10-16,McDonalds txn_135,653.17,Food
+2025-03-27,LPG Gas txn_746,2334.06,Bills
+2025-03-12,Netflix txn_805,546.03,Entertainment
+2025-04-28,Local Grocery txn_877,2221.62,Shopping
+2025-09-09,Tax Refund txn_692,74106.0,Income
+2025-07-10,Water Bill txn_328,2533.65,Bills
+2025-06-04,Water Bill txn_424,4819.34,Bills
+2025-11-14,Spotify txn_896,536.09,Entertainment
+2025-11-06,BESCOM Electricity txn_135,1979.5,Bills
+2025-08-20,Freelance Project txn_591,61528.0,Income
+2025-05-15,Netflix txn_138,2397.26,Entertainment
+2025-03-23,Tax Refund txn_404,75676.0,Income
+2025-10-28,Zara txn_271,1209.77,Shopping
+2025-09-14,Tax Refund txn_789,55046.0,Income
+2025-04-05,Flipkart txn_619,692.01,Shopping
+2025-07-08,Jio Fiber txn_546,4930.3,Bills
+2025-02-13,Water Bill txn_421,3894.5,Bills
+2025-04-16,LPG Gas txn_462,1512.2,Bills
+2025-01-06,Gym Membership txn_132,2102.37,Health
+2025-02-04,Swiggy txn_375,364.3,Food
+2025-03-16,Prime Video txn_137,2080.27,Entertainment
+2025-11-02,LPG Gas txn_449,2241.83,Bills
+2025-02-16,Netflix txn_507,555.31,Entertainment
+2025-08-30,Gaming Arcade txn_261,2171.6,Entertainment
+2025-10-08,Cafe Coffee Day txn_589,1366.85,Food
+2025-12-08,Airtel Postpaid txn_701,1415.06,Bills
+2025-11-03,Prime Video txn_608,574.99,Entertainment
+2025-07-31,Ola Cab txn_261,448.51,Travel
+2025-04-16,KFC txn_279,295.57,Food
+2025-02-18,Insurance Premium txn_276,4811.38,Bills
+2025-08-13,Dentist txn_395,270.41,Health
+2025-02-27,Jio Fiber txn_247,4591.58,Bills
+2025-11-21,Jio Fiber txn_487,3725.87,Bills
+2025-02-06,Local Dhaba txn_709,689.14,Food
+2025-09-05,Amazon txn_482,502.28,Shopping
+2025-06-14,BookMyShow txn_808,2272.47,Entertainment
+2025-04-27,Ola Cab txn_513,757.66,Travel
+2025-04-09,Ola Cab txn_299,391.26,Travel
+2025-09-21,Disney+ Hotstar txn_296,1547.25,Entertainment
+2025-09-16,Jio Fiber txn_436,3955.33,Bills
+2025-07-15,Dividends txn_106,56073.0,Income
+2025-09-26,Ola Cab txn_973,224.01,Travel
+2025-03-18,Freelance Project txn_417,32767.0,Income
+2025-10-12,Uber Ride txn_422,545.6,Travel
+2025-05-15,Tax Refund txn_661,69523.0,Income
+2025-04-29,McDonalds txn_873,1266.93,Food
+2025-10-27,Monthly Salary txn_835,37405.0,Income
+2025-08-15,Starbucks txn_635,1029.86,Food
+2025-11-08,LPG Gas txn_283,1040.45,Bills
+2025-10-11,Parking Fee txn_486,525.02,Travel
+2025-10-28,Auto Rickshaw txn_809,1106.77,Travel
+2025-11-23,IRCTC Ticket txn_741,1027.24,Travel
+2025-06-16,Interest Credit txn_457,20796.0,Income
+2025-07-18,McDonalds txn_699,2460.87,Food
+2025-10-12,Disney+ Hotstar txn_759,735.47,Entertainment
+2025-03-20,Uber Ride txn_872,716.4,Travel
+2025-04-06,Gym Membership txn_898,559.07,Health
+2025-06-16,Rental Income txn_289,78695.0,Income
+2025-04-19,Local Dhaba txn_387,831.36,Food
+2025-07-17,Interest Credit txn_345,48807.0,Income
+2025-08-14,Uber Ride txn_928,1310.62,Travel
+2025-11-27,Tax Refund txn_545,40836.0,Income
+2025-04-08,Pub Visit txn_107,2484.91,Entertainment
+2025-11-02,Freelance Project txn_509,42687.0,Income
+2025-08-16,Jio Fiber txn_653,3616.25,Bills
+2025-03-21,Flipkart txn_814,1836.26,Shopping
+2025-07-13,Nike Store txn_839,2250.15,Shopping
+2025-09-08,IndiGo Flight txn_408,243.79,Travel
+2025-10-06,Starbucks txn_534,2068.26,Food
+2025-08-22,Jio Fiber txn_106,4193.51,Bills
+2025-05-13,Rental Income txn_227,72137.0,Income
+2025-06-18,H&M txn_585,830.81,Shopping
+2025-05-08,Eye Checkup txn_840,2461.08,Health
+2025-11-22,Monthly Salary txn_861,73803.0,Income
+2025-06-25,Nike Store txn_343,1581.67,Shopping
+2025-03-26,BookMyShow txn_284,1578.0,Entertainment
+2025-09-15,Nike Store txn_107,967.41,Shopping
+2025-08-06,Dividends txn_752,41557.0,Income
+2025-11-17,Gaming Arcade txn_434,1531.09,Entertainment
+2025-12-03,Myntra txn_297,867.13,Shopping
+2025-06-26,Disney+ Hotstar txn_678,1058.47,Entertainment
+2025-09-03,Cafe Coffee Day txn_680,1259.99,Food
+2025-03-09,IRCTC Ticket txn_513,1317.66,Travel
+2025-07-23,Local Dhaba txn_405,258.32,Food
+2025-02-12,Uber Ride txn_117,1447.46,Travel
+2025-03-24,Petrol Pump txn_653,250.58,Travel
+2025-10-17,Tax Refund txn_355,35000.0,Income
+2025-12-04,H&M txn_620,1641.37,Shopping
+2025-06-30,Gym Membership txn_685,1981.65,Health
+2025-11-25,Airtel Postpaid txn_304,3668.29,Bills
+2025-11-23,BigBasket txn_363,2067.56,Shopping
+2025-02-22,Airtel Postpaid txn_363,1128.88,Bills
+2025-12-22,Petrol Pump txn_688,1105.75,Travel
+2025-06-29,Interest Credit txn_509,61539.0,Income
+2025-09-28,Shell Fuel txn_280,1370.7,Travel
+2025-03-03,Nike Store txn_233,826.78,Shopping
+2025-07-16,Dividends txn_910,28935.0,Income
+2025-12-23,KFC txn_680,1699.48,Food
+2025-02-27,Amazon txn_724,2486.1,Shopping
+2025-06-11,Tax Refund txn_734,31192.0,Income
+2025-05-30,Flipkart txn_992,1424.69,Shopping
+2025-02-26,Pathology Lab txn_112,145.12,Health
+2025-08-29,H&M txn_716,134.17,Shopping
+2025-11-30,Ola Cab txn_670,475.33,Travel
+2025-05-11,Apollo Pharmacy txn_982,2310.57,Health
+2025-09-22,Amazon txn_871,776.47,Shopping
+2025-04-24,KFC txn_116,1105.81,Food
+2025-12-21,Swiggy txn_182,1316.89,Food
+2025-09-04,Pub Visit txn_658,1864.19,Entertainment
+2025-06-16,H&M txn_680,1525.83,Shopping
+2025-04-13,Freelance Project txn_811,33950.0,Income
+2025-04-22,Uber Ride txn_207,1295.27,Travel
+2025-08-04,Myntra txn_410,172.23,Shopping
+2025-06-02,Parking Fee txn_482,674.25,Travel
+2025-01-29,Petrol Pump txn_918,753.6,Travel
+2025-03-19,Netflix txn_485,1145.13,Entertainment
+2025-04-19,Freelance Project txn_559,27249.0,Income
+2025-01-26,Practo Consultation txn_543,2016.21,Health
+2025-01-02,IRCTC Ticket txn_713,813.69,Travel
+2025-09-29,Zomato txn_877,712.05,Food
+2025-07-23,Insurance Premium txn_181,2338.27,Bills
+2025-06-02,Nike Store txn_556,1199.97,Shopping
+2025-03-02,Property Tax txn_403,2879.41,Bills
+2025-12-14,Gym Membership txn_178,2125.29,Health
+2025-12-31,Nike Store txn_356,214.16,Shopping
+2025-08-03,Rental Income txn_843,28171.0,Income
+2025-08-06,Netflix txn_697,1076.02,Entertainment
+2025-01-25,Pizza Hut txn_953,924.29,Food
+2026-01-01,Gaming Arcade txn_367,1164.45,Entertainment
+2025-01-10,Dentist txn_530,1623.51,Health
+2025-11-22,Blinkit txn_210,1922.7,Food
+2025-02-08,Interest Credit txn_258,48316.0,Income
+2025-10-19,Freelance Project txn_530,54311.0,Income
+2025-07-25,Pizza Hut txn_546,1336.37,Food
+2025-08-25,IRCTC Ticket txn_974,817.03,Travel
+2025-02-26,Petrol Pump txn_531,1164.42,Travel
+2025-10-22,LPG Gas txn_411,1957.88,Bills
+2025-09-03,Zomato txn_512,2140.93,Food
+2025-11-08,Zomato txn_956,1618.45,Food
+2025-05-08,Monthly Salary txn_970,25566.0,Income
+2025-10-24,McDonalds txn_487,838.8,Food
+2025-12-23,Monthly Salary txn_825,39072.0,Income
+2025-09-24,Ola Cab txn_132,622.11,Travel
+2025-11-30,BigBasket txn_679,2337.46,Shopping
+2025-09-02,Spotify txn_668,2468.51,Entertainment
+2025-01-27,Netflix txn_174,2018.6,Entertainment
+2025-04-11,Practo Consultation txn_796,1129.78,Health
+2025-03-12,Amazon txn_613,1246.33,Shopping
+2025-02-22,Practo Consultation txn_207,357.13,Health
+2025-01-12,McDonalds txn_634,1643.21,Food
+2025-10-10,BookMyShow txn_561,801.0,Entertainment
+2025-07-23,Prime Video txn_779,643.54,Entertainment
+2025-08-15,Property Tax txn_786,777.36,Bills
+2025-08-04,Monthly Salary txn_558,32927.0,Income
+2025-08-08,Prime Video txn_312,227.78,Entertainment
+2025-12-08,BigBasket txn_131,1126.72,Shopping
+2025-08-01,Prime Video txn_108,370.94,Entertainment
+2025-07-18,Spotify txn_354,532.31,Entertainment
+2025-05-09,Pathology Lab txn_675,1877.01,Health
+2025-12-17,Pathology Lab txn_632,1485.74,Health
+2025-01-25,Freelance Project txn_191,77275.0,Income
+2025-10-09,Disney+ Hotstar txn_819,991.24,Entertainment
+2025-01-19,Amazon txn_194,1934.41,Shopping
+2025-09-10,Starbucks txn_164,725.31,Food
+2025-03-05,H&M txn_526,78.94,Shopping
+2025-12-24,Freelance Project txn_278,72862.0,Income
+2025-06-14,Property Tax txn_951,3353.13,Bills
+2025-04-23,Swiggy txn_934,429.24,Food
+2025-07-23,Auto Rickshaw txn_813,1333.64,Travel
+2025-03-02,BookMyShow txn_726,179.35,Entertainment
+2025-11-14,Eye Checkup txn_251,2270.3,Health
+2025-09-08,Nike Store txn_369,929.1,Shopping
+2025-11-01,Zara txn_830,884.75,Shopping
+2025-04-21,Spotify txn_558,575.81,Entertainment
+2025-04-07,Dentist txn_151,1938.0,Health
+2025-06-02,Jio Fiber txn_314,1552.38,Bills
+2025-07-02,Zomato txn_127,506.39,Food
+2025-06-27,Myntra txn_110,405.47,Shopping
+2025-03-28,Shell Fuel txn_601,719.25,Travel
+2025-06-23,Local Dhaba txn_950,2292.52,Food
+2025-08-01,LPG Gas txn_443,2446.33,Bills
+2025-11-15,Starbucks txn_481,552.03,Food
+2025-05-28,Dentist txn_593,1862.73,Health
+2025-12-06,LPG Gas txn_970,4026.59,Bills
+2025-08-15,IRCTC Ticket txn_249,707.95,Travel
+2025-11-29,Decathlon txn_297,107.63,Shopping
+2025-10-13,Monthly Salary txn_863,25337.0,Income
+2025-01-02,Zara txn_580,1980.5,Shopping
+2025-04-14,Pathology Lab txn_292,345.78,Health
+2025-03-31,Uber Ride txn_327,239.78,Travel
+2025-09-03,BESCOM Electricity txn_547,1670.2,Bills
+2025-11-18,Interest Credit txn_921,46908.0,Income
+2025-09-07,Blinkit txn_300,248.2,Food
+2025-12-15,BookMyShow txn_890,2211.16,Entertainment
+2025-10-20,Freelance Project txn_853,42555.0,Income
+2026-01-01,Tax Refund txn_171,43157.0,Income
+2025-10-28,Auto Rickshaw txn_322,127.44,Travel
+2025-09-22,BookMyShow txn_665,679.11,Entertainment
+2025-03-20,Prime Video txn_831,1824.72,Entertainment
+2025-02-05,Water Bill txn_489,2268.88,Bills
+2025-03-07,Dentist txn_190,330.95,Health
+2025-04-17,Spotify txn_921,857.23,Entertainment
+2025-08-30,Cafe Coffee Day txn_618,916.76,Food
+2025-10-07,Zara txn_626,2198.9,Shopping
+2025-11-29,Airtel Postpaid txn_549,2618.49,Bills
+2025-04-19,Dentist txn_974,1570.73,Health
+2025-12-13,Local Grocery txn_132,62.59,Shopping
+2025-07-30,Jio Fiber txn_492,2251.03,Bills
+2025-07-22,Rental Income txn_224,56473.0,Income
+2025-04-03,Cafe Coffee Day txn_300,750.08,Food
+2025-03-30,Starbucks txn_450,2036.11,Food
+2025-03-15,Flipkart txn_243,2128.79,Shopping
+2025-05-02,Pizza Hut txn_878,843.78,Food
+2025-08-24,IndiGo Flight txn_414,1114.12,Travel
+2025-02-07,Dividends txn_189,56633.0,Income
+2025-04-01,Prime Video txn_252,1599.28,Entertainment
+2025-12-27,Gaming Arcade txn_819,1500.21,Entertainment
+2025-02-23,Petrol Pump txn_509,407.27,Travel
+2025-07-21,Apollo Pharmacy txn_911,2025.71,Health
+2025-01-21,Gym Membership txn_608,2266.3,Health
+2025-02-16,Prime Video txn_531,1642.28,Entertainment
+2025-09-22,Cafe Coffee Day txn_705,576.57,Food
+2025-03-18,Pub Visit txn_171,493.26,Entertainment
+2025-01-17,Freelance Project txn_662,70186.0,Income
+2025-12-25,Apollo Pharmacy txn_827,1506.58,Health
+2025-07-08,BookMyShow txn_305,1255.43,Entertainment
+2025-08-09,Property Tax txn_708,3513.02,Bills
+2025-11-11,Nike Store txn_277,2278.32,Shopping
+2025-02-20,Zomato txn_349,513.22,Food
+2025-06-26,Jio Fiber txn_176,2893.76,Bills
+2025-04-27,Zomato txn_206,422.06,Food
+2025-01-22,Spotify txn_395,1665.64,Entertainment
+2025-02-12,Zomato txn_386,766.65,Food
+2025-10-27,Monthly Salary txn_932,32218.0,Income
+2025-09-20,Blinkit txn_327,1748.13,Food
+2025-11-08,Nike Store txn_638,243.79,Shopping
+2025-09-08,Eye Checkup txn_395,669.45,Health
+2025-06-07,Gaming Arcade txn_984,1364.17,Entertainment
+2025-09-19,H&M txn_238,1198.24,Shopping
+2025-08-27,Myntra txn_583,2471.39,Shopping
+2025-03-29,Local Dhaba txn_638,2413.07,Food
+2025-05-23,McDonalds txn_136,678.19,Food
+2025-10-18,Eye Checkup txn_269,2141.01,Health
+2025-05-15,Local Dhaba txn_901,616.68,Food
+2025-02-13,Gym Membership txn_424,2418.06,Health
+2025-10-01,Jio Fiber txn_663,4007.18,Bills
+2025-01-28,Eye Checkup txn_320,1946.58,Health
+2025-07-12,Rental Income txn_228,79431.0,Income
+2025-11-05,Gym Membership txn_662,1848.87,Health
+2025-02-05,Blinkit txn_128,705.32,Food
+2025-06-10,Airtel Postpaid txn_163,3419.56,Bills
+2025-11-22,Prime Video txn_664,2384.14,Entertainment
+2025-03-15,Netflix txn_656,1586.79,Entertainment
+2025-03-09,Rental Income txn_675,44617.0,Income
+2025-06-20,Cafe Coffee Day txn_205,2003.79,Food
+2025-12-21,Jio Fiber txn_764,4360.52,Bills
+2025-07-03,Swiggy txn_668,2494.03,Food
+2025-08-23,Auto Rickshaw txn_614,1292.57,Travel
+2025-03-21,Jio Fiber txn_173,1771.6,Bills
+2025-02-08,IndiGo Flight txn_215,781.3,Travel
+2025-04-27,Uber Ride txn_190,1294.68,Travel
+2025-02-17,Interest Credit txn_405,64604.0,Income
+2025-07-20,Uber Ride txn_590,996.19,Travel
+2025-10-07,Ola Cab txn_425,539.37,Travel
+2025-06-25,LPG Gas txn_957,2729.82,Bills
+2025-05-31,Pathology Lab txn_186,652.37,Health
+2025-03-05,Monthly Salary txn_172,61417.0,Income
+2025-11-16,Freelance Project txn_849,60169.0,Income
+2025-10-06,Shell Fuel txn_218,1288.2,Travel
+2025-07-24,Practo Consultation txn_477,1783.55,Health
+2025-09-04,Gym Membership txn_318,1904.1,Health
+2025-03-28,Dividends txn_351,60623.0,Income
+2025-05-10,Insurance Premium txn_184,1048.94,Bills
+2025-04-23,Dividends txn_229,46063.0,Income
+2025-06-08,Netflix txn_592,1431.18,Entertainment
+2025-06-02,Tax Refund txn_987,43654.0,Income
+2025-01-06,Practo Consultation txn_155,1264.2,Health
+2025-02-22,Freelance Project txn_440,78741.0,Income
+2025-09-30,Prime Video txn_236,2115.24,Entertainment
+2025-10-23,Tax Refund txn_221,61787.0,Income
+2025-10-02,H&M txn_449,1693.57,Shopping
+2025-01-12,Nike Store txn_446,826.14,Shopping
+2025-10-12,Monthly Salary txn_351,66677.0,Income
+2025-06-22,Tax Refund txn_421,25065.0,Income
+2025-10-15,Zomato txn_319,210.52,Food
+2025-02-22,Freelance Project txn_377,24530.0,Income
+2025-06-23,Amazon txn_215,1583.45,Shopping
+2025-12-27,Flipkart txn_452,1412.19,Shopping
+2025-12-23,LPG Gas txn_730,4497.98,Bills
+2025-04-22,Decathlon txn_223,2124.75,Shopping
+2025-03-31,BookMyShow txn_167,1606.35,Entertainment
+2025-10-26,Monthly Salary txn_619,46947.0,Income
+2025-10-27,H&M txn_511,80.27,Shopping
+2025-11-19,Monthly Salary txn_309,41416.0,Income
+2025-03-20,Pizza Hut txn_138,1729.28,Food
+2025-12-24,Zomato txn_644,1153.65,Food
+2025-11-03,Zomato txn_644,2076.71,Food
+2025-01-10,Amazon txn_711,2056.96,Shopping
+2025-08-22,Monthly Salary txn_319,33197.0,Income
+2025-01-14,BigBasket txn_475,573.07,Shopping
+2025-12-08,Apollo Pharmacy txn_892,277.72,Health
+2025-07-19,Apollo Pharmacy txn_825,914.24,Health
+2025-01-12,Tax Refund txn_643,69627.0,Income
+2025-09-17,McDonalds txn_235,154.1,Food
+2025-11-30,Dentist txn_449,2019.76,Health
+2025-09-26,Zomato txn_413,489.5,Food
+2025-12-14,Pathology Lab txn_122,97.22,Health
+2025-12-07,Tax Refund txn_818,51650.0,Income
+2025-02-25,Pizza Hut txn_304,1970.3,Food
+2025-03-30,Dividends txn_863,57361.0,Income
+2025-09-22,BESCOM Electricity txn_725,938.15,Bills
+2025-08-17,Rental Income txn_580,70199.0,Income
+2025-12-14,IndiGo Flight txn_123,713.51,Travel
+2025-04-24,Local Grocery txn_152,1127.83,Shopping
+2025-12-14,Water Bill txn_599,1272.62,Bills
+2025-08-22,Blinkit txn_824,1433.19,Food
+2025-11-05,Eye Checkup txn_759,694.94,Health
+2025-11-26,Jio Fiber txn_174,4710.75,Bills
+2025-02-22,Amazon txn_422,469.42,Shopping
+2025-03-19,Rental Income txn_850,30777.0,Income
+2025-12-03,Local Dhaba txn_688,183.31,Food
+2025-12-14,Parking Fee txn_140,1173.5,Travel
+2025-10-04,Shell Fuel txn_854,520.98,Travel
+2025-04-06,BESCOM Electricity txn_845,1723.61,Bills
+2025-11-03,Nike Store txn_801,912.62,Shopping
+2025-03-10,Ola Cab txn_396,157.95,Travel
+2025-07-05,BigBasket txn_452,1913.24,Shopping
+2025-09-17,Pathology Lab txn_266,2228.38,Health
+2025-06-20,Starbucks txn_282,1804.17,Food
+2025-03-10,Local Dhaba txn_269,753.22,Food
+2025-07-13,Flipkart txn_737,862.38,Shopping
+2025-06-29,Local Dhaba txn_520,643.18,Food
+2025-08-11,Petrol Pump txn_274,322.3,Travel
+2025-06-26,Local Dhaba txn_649,1245.48,Food
+2025-06-29,Local Dhaba txn_433,1746.08,Food
+2025-08-07,Jio Fiber txn_167,2036.64,Bills
+2025-04-21,Zara txn_343,1010.2,Shopping
+2025-02-04,Parking Fee txn_859,1257.6,Travel
+2025-12-06,Rental Income txn_739,41770.0,Income
+2025-09-15,Gaming Arcade txn_791,313.99,Entertainment
+2025-10-24,BookMyShow txn_324,2333.49,Entertainment
+2025-09-26,H&M txn_205,2475.75,Shopping
+2025-09-01,McDonalds txn_807,1904.85,Food
+2025-08-20,Tax Refund txn_223,79796.0,Income
+2025-02-10,Eye Checkup txn_684,53.66,Health
+2025-08-07,IndiGo Flight txn_567,1396.16,Travel
+2025-02-10,IndiGo Flight txn_274,1026.73,Travel
+2025-05-20,McDonalds txn_218,2462.44,Food
+2025-04-05,Starbucks txn_422,152.77,Food
+2025-04-03,Practo Consultation txn_446,1909.0,Health
+2025-12-21,Tax Refund txn_531,69806.0,Income
+2025-06-09,Property Tax txn_801,1346.67,Bills
+2025-04-21,Monthly Salary txn_508,25845.0,Income
+2025-09-13,Property Tax txn_905,1372.76,Bills
+2025-07-19,BESCOM Electricity txn_310,4433.42,Bills
+2025-04-30,Amazon txn_226,1381.56,Shopping
+2025-09-07,Freelance Project txn_666,59279.0,Income
+2025-04-16,Blinkit txn_453,746.78,Food
+2025-07-28,Uber Ride txn_285,253.27,Travel
+2025-03-15,Water Bill txn_190,2088.88,Bills
+2025-09-15,Blinkit txn_851,499.85,Food
+2025-05-22,Netflix txn_936,2269.75,Entertainment
+2025-09-01,Spotify txn_125,1761.9,Entertainment
+2025-05-04,Swiggy txn_110,1610.63,Food
+2025-01-14,Ola Cab txn_819,1464.7,Travel
+2025-05-04,Airtel Postpaid txn_238,4039.25,Bills
+2025-01-08,Monthly Salary txn_606,64564.0,Income
+2025-08-27,Gym Membership txn_866,943.24,Health
+2025-07-28,IRCTC Ticket txn_929,1176.28,Travel
+2025-08-19,BESCOM Electricity txn_783,1782.18,Bills
+2025-05-19,Amazon txn_240,683.51,Shopping
+2025-02-28,Dividends txn_959,37534.0,Income
+2025-06-02,Starbucks txn_339,543.2,Food
+2025-10-06,Apollo Pharmacy txn_464,925.58,Health
+2025-11-18,BigBasket txn_237,674.29,Shopping
+2025-01-05,Zara txn_886,723.77,Shopping
+2025-05-18,Local Dhaba txn_680,1702.55,Food
+2025-12-29,Parking Fee txn_424,867.35,Travel
+2025-07-21,Uber Ride txn_955,1335.12,Travel
+2025-06-09,IRCTC Ticket txn_929,1458.1,Travel
+2025-12-19,Prime Video txn_492,1382.97,Entertainment
+2025-07-23,Petrol Pump txn_694,1289.36,Travel
+2025-08-08,Water Bill txn_526,3741.63,Bills
+2025-08-28,Rental Income txn_911,22879.0,Income
+2025-04-02,Apollo Pharmacy txn_746,2333.39,Health
+2025-12-07,Practo Consultation txn_813,2424.9,Health
+2025-02-18,Gaming Arcade txn_484,532.58,Entertainment
+2025-12-27,Myntra txn_524,1838.31,Shopping
+2025-05-31,BookMyShow txn_860,879.26,Entertainment
+2025-03-30,Gym Membership txn_231,2064.41,Health
+2025-08-11,Insurance Premium txn_497,4893.8,Bills
+2025-03-31,Gaming Arcade txn_726,511.73,Entertainment
+2025-10-05,IndiGo Flight txn_558,1160.14,Travel
+2025-01-30,Zomato txn_911,1905.84,Food
+2025-05-16,Blinkit txn_712,1108.7,Food
+2025-03-04,IndiGo Flight txn_279,1109.31,Travel
+2025-04-19,Parking Fee txn_520,194.2,Travel
+2025-02-25,Airtel Postpaid txn_209,4666.93,Bills
+2025-03-29,Monthly Salary txn_380,42926.0,Income
+2025-07-13,Petrol Pump txn_638,530.44,Travel
+2025-12-29,Eye Checkup txn_516,805.45,Health
+2025-12-18,BESCOM Electricity txn_818,4341.35,Bills
+2025-08-13,IRCTC Ticket txn_914,481.29,Travel
+2025-09-10,Dividends txn_860,66518.0,Income
+2025-07-13,Local Grocery txn_776,1513.2,Shopping
+2025-07-10,BookMyShow txn_517,378.74,Entertainment
+2025-03-15,KFC txn_120,237.77,Food
+2025-06-22,Netflix txn_132,2238.33,Entertainment
+2025-09-27,Practo Consultation txn_745,1784.26,Health
+2025-01-01,Dividends txn_958,40844.0,Income
+2025-11-02,Property Tax txn_309,1514.36,Bills
+2025-05-12,Pizza Hut txn_859,1222.22,Food
+2025-01-25,Gym Membership txn_921,1254.42,Health
+2025-06-27,McDonalds txn_808,1048.55,Food
+2025-01-03,Shell Fuel txn_871,1165.73,Travel
+2025-08-04,Dentist txn_474,1420.26,Health
+2025-05-30,Monthly Salary txn_887,66065.0,Income
+2025-06-08,IndiGo Flight txn_145,402.59,Travel
+2025-03-27,Gym Membership txn_112,975.28,Health
+2025-07-31,Eye Checkup txn_802,2452.26,Health
+2025-08-30,Disney+ Hotstar txn_107,758.08,Entertainment
+2025-12-07,Eye Checkup txn_260,145.81,Health
+2025-09-18,Pub Visit txn_182,1220.72,Entertainment
+2025-11-19,Interest Credit txn_397,76972.0,Income
+2025-03-15,Local Grocery txn_955,1943.78,Shopping
+2025-07-25,LPG Gas txn_368,3780.39,Bills
+2025-05-25,Airtel Postpaid txn_299,3674.88,Bills
+2025-02-08,Cafe Coffee Day txn_220,270.01,Food
+2025-03-16,Ola Cab txn_718,447.55,Travel
+2025-05-01,Blinkit txn_117,1422.3,Food
+2025-04-30,Rental Income txn_494,70391.0,Income
+2025-01-30,Zomato txn_672,2354.64,Food
+2026-01-01,Zomato txn_847,585.92,Food
+2025-10-09,Eye Checkup txn_561,2188.62,Health
+2025-11-05,Gaming Arcade txn_147,2250.25,Entertainment
+2025-05-27,Rental Income txn_665,42884.0,Income
+2025-08-02,Gym Membership txn_263,970.65,Health
+2025-11-09,Pathology Lab txn_119,1992.43,Health
+2025-01-28,Gym Membership txn_364,498.81,Health
+2025-01-08,Apollo Pharmacy txn_364,207.13,Health
+2025-08-28,Local Grocery txn_882,1258.83,Shopping
+2025-05-03,Interest Credit txn_518,40330.0,Income
+2025-12-29,Water Bill txn_383,684.65,Bills
+2025-01-25,Zara txn_901,591.72,Shopping
+2025-05-13,Ola Cab txn_495,129.43,Travel
+2025-08-24,Disney+ Hotstar txn_458,623.43,Entertainment
+2025-12-10,Flipkart txn_535,2422.02,Shopping
+2025-10-15,Local Dhaba txn_743,1762.59,Food
+2025-09-03,Flipkart txn_329,2455.44,Shopping
+2025-07-08,IndiGo Flight txn_297,170.3,Travel
+2025-04-14,Monthly Salary txn_804,66249.0,Income
+2025-11-17,BESCOM Electricity txn_518,3924.92,Bills
+2025-09-09,Decathlon txn_613,1891.47,Shopping
+2025-04-13,Interest Credit txn_326,28221.0,Income
+2025-11-29,McDonalds txn_269,745.55,Food
+2025-09-21,Zara txn_524,159.58,Shopping
+2025-01-24,BookMyShow txn_433,2384.34,Entertainment
+2025-11-30,Pub Visit txn_371,88.78,Entertainment
+2025-05-11,Apollo Pharmacy txn_500,1093.42,Health
+2025-05-14,Ola Cab txn_511,174.33,Travel
+2025-05-01,Ola Cab txn_283,343.34,Travel
+2025-12-03,Myntra txn_829,1974.85,Shopping
+2025-09-26,Pizza Hut txn_250,1654.48,Food
+2025-10-01,Nike Store txn_976,2421.73,Shopping
+2025-04-21,Tax Refund txn_577,48380.0,Income
+2025-02-03,Practo Consultation txn_374,1223.77,Health
+2025-06-13,IndiGo Flight txn_949,971.49,Travel
+2025-02-22,Property Tax txn_525,1919.83,Bills
+2025-05-29,Parking Fee txn_194,1065.57,Travel
+2025-06-29,Myntra txn_595,536.2,Shopping
+2025-05-10,Apollo Pharmacy txn_481,1106.07,Health
+2025-07-02,Apollo Pharmacy txn_371,2214.8,Health
+2025-03-21,Petrol Pump txn_707,1197.41,Travel
+2025-09-20,Pizza Hut txn_109,323.78,Food
+2025-07-14,Amazon txn_389,366.73,Shopping
+2025-03-16,Rental Income txn_842,60383.0,Income
+2025-09-20,Property Tax txn_536,4274.68,Bills
+2025-11-20,Freelance Project txn_418,32679.0,Income
+2025-06-21,Pizza Hut txn_599,699.18,Food
+2025-10-01,BookMyShow txn_334,1850.4,Entertainment
+2025-08-09,Netflix txn_318,1101.93,Entertainment
+2025-08-16,Flipkart txn_738,1039.86,Shopping
+2025-09-02,Water Bill txn_475,3287.71,Bills
+2025-06-01,Amazon txn_506,2020.22,Shopping
+2025-01-30,Monthly Salary txn_905,22732.0,Income
+2025-06-23,Dividends txn_483,65299.0,Income
+2025-02-13,Auto Rickshaw txn_846,559.32,Travel
+2025-07-29,Insurance Premium txn_137,3953.0,Bills
+2025-01-23,Monthly Salary txn_600,75939.0,Income
+2025-11-14,Pathology Lab txn_967,2135.68,Health
+2025-12-23,Apollo Pharmacy txn_279,1373.84,Health
+2025-01-30,Swiggy txn_113,950.94,Food
+2025-04-27,BookMyShow txn_300,2000.45,Entertainment
+2025-10-06,Freelance Project txn_706,60950.0,Income
+2025-07-26,Blinkit txn_590,1131.55,Food
+2025-05-07,LPG Gas txn_194,1430.16,Bills
+2025-03-04,Dividends txn_700,52392.0,Income
+2025-11-28,Netflix txn_446,1656.45,Entertainment
+2025-07-02,Disney+ Hotstar txn_893,361.23,Entertainment
+2025-08-26,Amazon txn_623,382.4,Shopping
+2025-03-05,Shell Fuel txn_561,734.63,Travel
+2025-05-08,Practo Consultation txn_456,593.56,Health
+2025-04-13,Insurance Premium txn_309,2531.72,Bills
+2025-10-27,Cafe Coffee Day txn_876,2270.3,Food
+2025-04-06,Local Grocery txn_373,2112.0,Shopping
+2025-05-03,Pub Visit txn_221,476.0,Entertainment
+2025-09-13,Dentist txn_474,552.21,Health
+2025-06-03,Gaming Arcade txn_131,845.78,Entertainment
+2025-03-31,Gym Membership txn_496,2208.63,Health
+2025-06-12,Dentist txn_813,1532.23,Health
+2025-07-16,Parking Fee txn_634,709.67,Travel
+2025-09-16,H&M txn_306,2242.46,Shopping
+2025-09-05,Disney+ Hotstar txn_629,608.85,Entertainment
+2025-01-25,Pathology Lab txn_189,2272.55,Health
+2025-02-23,BookMyShow txn_927,790.91,Entertainment
+2025-09-26,Shell Fuel txn_994,1414.72,Travel
+2025-04-02,Flipkart txn_600,504.09,Shopping
+2025-03-19,Local Grocery txn_474,547.35,Shopping
+2025-11-23,Myntra txn_685,935.21,Shopping
+2025-09-03,H&M txn_867,223.9,Shopping
+2025-06-26,LPG Gas txn_148,1696.35,Bills
+2025-01-04,Freelance Project txn_869,65078.0,Income
+2025-05-06,Gym Membership txn_660,1035.31,Health
+2025-05-31,Property Tax txn_336,2302.31,Bills
+2025-01-02,Rental Income txn_209,74527.0,Income
+2025-01-30,Property Tax txn_752,4425.14,Bills
+2025-07-13,LPG Gas txn_934,3735.84,Bills
+2025-06-10,LPG Gas txn_436,2637.74,Bills
+2025-10-19,Blinkit txn_155,972.77,Food
+2025-11-03,Airtel Postpaid txn_762,2010.58,Bills
+2025-03-30,H&M txn_197,1557.24,Shopping
+2025-11-02,KFC txn_519,1888.58,Food
+2025-06-05,Local Grocery txn_412,1535.14,Shopping
+2025-01-29,Pathology Lab txn_540,1020.7,Health
+2025-03-29,Ola Cab txn_204,118.15,Travel
+2025-05-17,BookMyShow txn_522,801.7,Entertainment
+2025-07-10,IndiGo Flight txn_522,651.14,Travel
+2025-04-10,Shell Fuel txn_240,952.85,Travel
+2025-08-10,Pathology Lab txn_278,1753.88,Health
+2025-09-18,BigBasket txn_378,859.5,Shopping
+2025-02-17,Practo Consultation txn_296,924.07,Health
+2025-07-22,Pub Visit txn_104,1341.49,Entertainment
+2025-06-03,Blinkit txn_692,904.49,Food
+2025-09-23,Spotify txn_450,2130.87,Entertainment
+2025-09-03,H&M txn_854,731.84,Shopping
+2025-10-29,Gaming Arcade txn_621,899.17,Entertainment
+2025-07-08,Jio Fiber txn_116,1295.83,Bills
+2025-11-30,Pub Visit txn_648,1445.16,Entertainment
+2025-04-11,Zomato txn_961,1903.66,Food
+2025-05-28,IRCTC Ticket txn_196,907.11,Travel
+2025-07-03,Water Bill txn_256,2283.52,Bills
+2025-05-23,Pizza Hut txn_310,2205.4,Food
+2025-12-29,McDonalds txn_307,666.94,Food
+2025-07-13,Gym Membership txn_793,2495.57,Health
+2025-04-04,Dividends txn_614,28470.0,Income
+2025-06-22,Prime Video txn_116,2012.77,Entertainment
+2025-06-30,Property Tax txn_289,3941.53,Bills
+2025-08-24,Property Tax txn_975,1518.49,Bills
+2025-03-26,Insurance Premium txn_446,2268.46,Bills
+2025-09-13,BESCOM Electricity txn_895,3701.9,Bills
+2025-04-09,Zomato txn_208,2019.81,Food
+2025-11-26,Starbucks txn_851,1306.45,Food
+2025-02-17,KFC txn_956,1193.35,Food
+2025-03-05,Jio Fiber txn_808,3742.4,Bills
+2025-10-13,LPG Gas txn_528,3045.98,Bills
+2025-07-06,Local Grocery txn_887,1433.22,Shopping
+2025-08-25,Tax Refund txn_308,24007.0,Income
+2025-07-24,Airtel Postpaid txn_667,861.38,Bills
+2025-09-30,Flipkart txn_403,1869.47,Shopping
+2025-02-08,Freelance Project txn_479,48383.0,Income
+2025-08-09,Dentist txn_643,918.62,Health
+2025-05-14,Jio Fiber txn_535,892.54,Bills
+2025-08-13,Jio Fiber txn_537,4982.02,Bills
+2025-06-18,Interest Credit txn_704,76209.0,Income
+2025-07-31,Amazon txn_163,1290.45,Shopping
+2025-12-30,Dentist txn_277,146.64,Health
+2025-12-10,Flipkart txn_792,1207.47,Shopping
+2025-10-13,Zomato txn_412,1525.38,Food
+2025-10-26,Ola Cab txn_968,1127.53,Travel
+2025-06-19,Apollo Pharmacy txn_565,1607.08,Health
+2025-07-26,Interest Credit txn_314,52080.0,Income
+2025-11-03,Starbucks txn_849,1092.95,Food
+2025-01-15,Ola Cab txn_797,1492.3,Travel
+2025-05-11,Property Tax txn_575,2520.68,Bills
+2025-05-10,Petrol Pump txn_113,514.37,Travel
+2025-12-09,Starbucks txn_255,1811.95,Food
+2025-01-12,Rental Income txn_291,29480.0,Income
+2025-12-06,Tax Refund txn_962,78593.0,Income
+2025-07-30,Shell Fuel txn_313,988.48,Travel
+2025-02-06,BESCOM Electricity txn_923,2741.74,Bills
+2025-12-02,McDonalds txn_871,1895.31,Food
+2025-02-09,IndiGo Flight txn_970,1183.28,Travel
+2025-07-31,Zomato txn_504,1443.98,Food
+2025-05-03,BookMyShow txn_820,68.76,Entertainment
+2025-06-13,Rental Income txn_783,52521.0,Income
+2025-03-12,Local Dhaba txn_422,791.74,Food
+2025-02-23,Local Dhaba txn_156,128.84,Food
+2025-01-28,Dividends txn_986,48651.0,Income
+2025-07-05,BookMyShow txn_628,1487.24,Entertainment
+2025-09-04,Shell Fuel txn_689,580.34,Travel
+2025-01-10,Water Bill txn_979,2534.49,Bills
+2025-06-24,BESCOM Electricity txn_141,3313.94,Bills
+2025-06-01,Local Dhaba txn_549,1869.64,Food
+2025-01-16,Pub Visit txn_127,1074.47,Entertainment
+2025-09-07,H&M txn_396,2353.56,Shopping
+2025-06-02,Gym Membership txn_529,1684.55,Health
+2025-05-14,Netflix txn_291,782.53,Entertainment
+2025-01-27,Practo Consultation txn_837,2295.26,Health
+2025-03-11,Eye Checkup txn_784,414.27,Health
+2025-01-02,Shell Fuel txn_808,1243.39,Travel
+2025-09-22,LPG Gas txn_526,3547.6,Bills
+2025-05-30,Insurance Premium txn_260,4973.26,Bills
+2025-09-29,Water Bill txn_268,3793.15,Bills
+2025-04-12,Myntra txn_157,1583.4,Shopping
+2025-12-04,Zara txn_957,1699.06,Shopping
+2025-02-02,Jio Fiber txn_873,4316.74,Bills
+2025-06-13,Dividends txn_148,41053.0,Income
+2025-04-19,McDonalds txn_567,1254.58,Food
+2025-09-22,LPG Gas txn_610,3316.43,Bills
+2025-06-19,Local Grocery txn_230,1027.3,Shopping
+2025-07-26,Cafe Coffee Day txn_230,1158.79,Food
+2025-06-12,Airtel Postpaid txn_927,3503.72,Bills
+2025-10-22,Cafe Coffee Day txn_351,982.23,Food
+2025-05-02,Interest Credit txn_735,75075.0,Income
+2025-04-07,Decathlon txn_874,1519.1,Shopping
+2025-11-05,BookMyShow txn_645,1020.11,Entertainment
+2025-02-03,Flipkart txn_268,478.37,Shopping
+2025-08-30,Dividends txn_546,22104.0,Income
+2025-10-14,Gym Membership txn_144,806.93,Health
+2025-06-29,Practo Consultation txn_610,1013.84,Health
+2025-05-24,Eye Checkup txn_313,1439.41,Health
+2025-01-26,Auto Rickshaw txn_444,810.01,Travel
+2025-05-13,Netflix txn_430,329.7,Entertainment
+2025-08-11,Jio Fiber txn_620,4775.26,Bills
+2025-05-05,Myntra txn_880,859.54,Shopping
+2025-01-07,Interest Credit txn_290,62163.0,Income
+2025-06-19,IndiGo Flight txn_446,820.3,Travel
+2025-12-21,Insurance Premium txn_679,2335.47,Bills
+2025-02-24,Petrol Pump txn_485,712.87,Travel
+2025-11-13,Property Tax txn_940,4203.35,Bills
+2025-04-19,Dividends txn_610,33164.0,Income
+2025-01-15,Spotify txn_926,1869.86,Entertainment
+2025-02-16,KFC txn_792,2207.12,Food
+2025-10-17,Cafe Coffee Day txn_173,2026.7,Food
+2025-07-20,Monthly Salary txn_980,76905.0,Income
+2025-06-23,Pizza Hut txn_830,1064.94,Food
+2025-12-25,Ola Cab txn_223,1336.95,Travel
+2025-05-06,Insurance Premium txn_696,2117.56,Bills
+2025-04-08,Auto Rickshaw txn_959,985.79,Travel
+2025-10-11,LPG Gas txn_211,4503.51,Bills
+2025-05-12,Dentist txn_965,674.22,Health
+2025-03-01,IRCTC Ticket txn_443,1395.14,Travel
+2025-08-16,Apollo Pharmacy txn_978,893.01,Health
+2025-03-13,BookMyShow txn_985,1666.18,Entertainment
+2025-03-01,Eye Checkup txn_506,1787.94,Health
+2025-08-22,Netflix txn_352,2128.63,Entertainment
+2025-01-24,Pub Visit txn_449,870.5,Entertainment
+2025-07-12,Prime Video txn_576,2407.13,Entertainment
+2025-09-05,Gaming Arcade txn_870,2071.14,Entertainment
+2025-05-30,BigBasket txn_179,1345.59,Shopping
+2025-08-21,Interest Credit txn_222,24669.0,Income
+2025-11-15,BESCOM Electricity txn_505,2137.72,Bills
+2025-06-12,Netflix txn_480,272.3,Entertainment
+2025-05-13,Dentist txn_361,429.94,Health
+2025-08-02,Gym Membership txn_328,748.63,Health
+2025-05-10,Water Bill txn_115,4989.26,Bills
+2025-10-16,Prime Video txn_779,82.98,Entertainment
+2025-07-24,Cafe Coffee Day txn_537,2424.81,Food
+2025-10-17,Interest Credit txn_547,29510.0,Income
+2025-03-27,BookMyShow txn_173,832.21,Entertainment
+2025-09-14,Gaming Arcade txn_295,1149.89,Entertainment
+2025-01-08,Interest Credit txn_742,22113.0,Income
+2025-03-11,IndiGo Flight txn_251,871.94,Travel
+2025-01-18,Parking Fee txn_392,1330.98,Travel
+2025-04-03,Gym Membership txn_281,1705.49,Health
+2025-09-27,Monthly Salary txn_822,69510.0,Income
+2025-08-18,KFC txn_845,491.59,Food
+2025-10-11,LPG Gas txn_661,1852.6,Bills
+2025-10-17,Interest Credit txn_842,74212.0,Income
+2025-04-13,Dividends txn_690,69677.0,Income
+2025-01-24,LPG Gas txn_791,1691.56,Bills
+2025-02-03,Pathology Lab txn_325,473.01,Health
+2025-01-12,H&M txn_959,321.67,Shopping
+2025-03-18,Uber Ride txn_786,636.08,Travel
+2025-11-07,Apollo Pharmacy txn_121,2285.46,Health
+2025-04-15,IRCTC Ticket txn_925,913.42,Travel
+2025-04-12,H&M txn_914,1167.59,Shopping
+2025-06-17,Auto Rickshaw txn_398,715.02,Travel
+2025-03-01,Uber Ride txn_867,973.93,Travel
+2025-03-03,Myntra txn_683,280.37,Shopping
+2025-07-03,Pub Visit txn_658,2357.53,Entertainment
+2025-07-10,Spotify txn_422,2320.33,Entertainment
+2025-01-04,Zara txn_979,683.26,Shopping
+2025-10-25,IndiGo Flight txn_968,1268.44,Travel
+2025-11-30,Practo Consultation txn_306,136.15,Health
+2025-04-03,Blinkit txn_573,887.46,Food
+2025-10-11,Pub Visit txn_314,567.53,Entertainment
+2025-09-08,Local Grocery txn_764,1355.78,Shopping
+2025-05-19,Amazon txn_413,1617.15,Shopping
+2025-10-29,Rental Income txn_221,31972.0,Income
+2025-01-05,Apollo Pharmacy txn_219,1201.85,Health
+2025-10-23,Jio Fiber txn_724,1532.92,Bills
+2025-08-10,Interest Credit txn_736,37580.0,Income
+2025-09-11,Pathology Lab txn_404,1582.67,Health
+2025-03-08,Parking Fee txn_363,1325.45,Travel
+2025-05-18,Swiggy txn_634,824.16,Food
+2025-12-21,Spotify txn_963,824.85,Entertainment
+2025-12-10,Water Bill txn_272,4406.12,Bills
+2025-06-03,Eye Checkup txn_200,1756.14,Health
+2025-11-20,McDonalds txn_781,878.83,Food
+2025-03-15,BigBasket txn_425,2120.39,Shopping
+2025-03-24,Uber Ride txn_589,1469.99,Travel
+2025-12-12,Freelance Project txn_261,47622.0,Income
